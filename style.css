@@ -1,0 +1,50 @@
+.gyan{
+    color: rgb(9, 78, 64);
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 300px;
+    background-color: lavender;
+    padding: 10px;
+}
+.canvas{
+    text-align: center;
+    background-color: black;
+    color: rgb(119, 32, 154);
+}
+button{
+    font-weight: 15px;
+    font-size: medium;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: rgb(9, 78, 64);
+    color: lavender;
+    box-shadow: none;
+}
+
+#results{
+    margin-top: 25px;
+    color: lavender;
+    font-size: 50px;
+    font-style: italic;
+    background-color: cadetblue;
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bmi-guide{
+    color: rgb(97, 12, 33);
+}
+#status{
+    margin-top: 25px;
+    color: rgb(97, 12, 33);
+    font-size: 20px;
+    
+    background-color: lavender;
+    width: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
